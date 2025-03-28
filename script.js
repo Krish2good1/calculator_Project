@@ -37,7 +37,6 @@ function calculateResult() {
     }
 }
 
-
 let parenthesesCount = 0;
 
 function appendParentheses() {
